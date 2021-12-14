@@ -74,5 +74,5 @@ if __name__ == "__main__":
     
     print("Part 1 answer: ",day11_part1(day11_input))
     n,_day11_part2(day11_input,niter=2000)
-    print("Part 1 answer: ",n)
+    print("Part 2 answer: ",n)
     
